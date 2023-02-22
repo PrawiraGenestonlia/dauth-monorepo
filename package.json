@@ -1,5 +1,5 @@
 {
-  "name": "dAuth",
+  "name": "dauth",
   "version": "0.0.0",
   "private": true,
   "workspaces": [
@@ -20,6 +20,5 @@
   "engines": {
     "node": ">=14.0.0"
   },
-  "dependencies": {},
   "packageManager": "npm@6.14.11"
 }
